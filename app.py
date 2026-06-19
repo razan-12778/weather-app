@@ -34,7 +34,7 @@ h1, h2, h3 {
 """, unsafe_allow_html=True)
 
 # ===== عنوان =====
-st.title("🇸🇦🌤️ Saudi Weather Pro Dashboard")
+st.title("🇸🇦🌤️ Saudi Weather ")
 
 # ===== بيانات =====
 cities = ["الرياض","جدة","مكة","المدينة","الدمام","أبها","تبوك","جازان"]
